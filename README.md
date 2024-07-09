@@ -1,3 +1,9 @@
+# AcmeSyliusExamplePlugin
+
+This repo is for testing the Sylius Payment Gateway integration article as documented here: https://docs.sylius.com/en/1.13/cookbook/payments/custom-payment-gateway.html
+
+
+# Default Skeleton README
 <p align="center">
     <a href="https://sylius.com" target="_blank">
         <img src="https://demo.sylius.com/assets/shop/img/logo.png" />
